@@ -1,0 +1,56 @@
+body.fixed-header.home-blockchain-img.modal-open {padding: 0 !important;}
+
+.continue-disable-btn:hover, .continue-disable-btn:focus {
+	color: #BFBFBF;
+}
+
+.news-verify-design-steps .poc-belo-title {color: #f20808;padding-bottom: 15px;font-weight: bold;}
+.news-verify-design-steps  {background: #f3f3f3;padding: 108px 0 60px 0;}
+.news-verify-design-steps .verify-first-page {width: 49%;margin: 0 auto;display: table;    text-align: center;}
+.news-verify-design-steps .verify-page-border .global-logo-verify {display: table;margin: 0 auto;width: 155px;}
+.news-verify-design-steps .wrong-right-image .tick-image {display: table;margin: 0 auto;padding-bottom: 10px;width: 85px;}
+.news-verify-design-steps .verify-page-border {box-shadow: 0px 0px 13px -5px #555;padding: 40px;border-radius: 3px;background-color: #fff;}
+.news-verify-design-steps .error-code {color: #c60c0d;font-weight: bold;font-size: 14px;padding-bottom: 15px;}
+.news-verify-design-steps .verification-document-message {color: #c60c0d;font-size: 28px;font-weight: bold;padding-bottom: 15px;}
+.news-verify-design-steps .service-provider-name {font-size: 21px;font-weight: bold;    padding-bottom: 15px;}
+.news-verify-design-steps .service-provider-logo {padding-bottom: 15px;display: table;margin: 0 auto;}
+.news-verify-design-steps .provider-logo {width: 107px;}
+.news-verify-design-steps .wrong-right-image {padding: 30px 0px;}
+.news-verify-design-steps .issuer-name {font-size: 15px;color: #6e6e6e;}
+.news-verify-design-steps .issuer-name .name-color {color: #246685;font-weight: bold;}
+.news-verify-design-steps .verification-document-message.success-message {color: #158c46;}
+.modal.verifypage-modal {background-color: rgba(0,0,0,0.8);opacity: unset;}
+.modal.verifypage-modal .modal-title.verifypage-title-modal {color: #158c46;font-weight: bold;text-transform: uppercase;text-align: center;font-size: 20px;}
+.modal-body.modal-body-main{padding:30px;}
+.modal.verifypage-modal .modal-header {padding: unset;border-bottom: none;padding-top: 30px;}
+.modal-body-verify .modal-left-part {width: 40%;float: left;background-color: #e6e6e6;border: 1px solid #fff;padding: 10px 15px;font-size: 15px;font-weight: bold;    display: flex;align-items: center;}
+.modal-body-verify .modal-right-part {width: 60%;float: left;background-color: #f7f7f7;border: 1px solid #fff;padding: 10px 15px;font-size: 15px;display: flex;align-items: center;}
+.modal-main-line {display: inline-flex;width: 100%;float: left;}
+.modal-body-main .gradient-btn.download-btn-verify.download-btn-get.close-btn {border-radius: 5px;padding: 7px 40px !important;margin: 0 auto !important;display: table;font-size:18px;}
+.modal-body-verify.clearfix {padding-bottom: 25px;}
+.modal.verifypage-modal {padding: 0 !important;}
+@media(max-width:991px){
+    .news-verify-design-steps .verify-first-page {width: 90%;}
+}
+@media(max-width:768px){
+    .modal-body-verify .modal-left-part {width: 100%;background-color: #f7f7f7;border: unset;padding: 10px 15px 0px;font-size: 15px;font-weight: bold;}
+.modal-body-verify .modal-right-part {width: 100%;padding: 8px 15px 10px;font-size: 15px;border: none;}
+.modal-main-line {display: unset;width: 100%;float: left;border: 1px solid #fff;}
+    .modal-body.modal-body-main {padding: 20px;}
+    .modal.verifypage-modal .modal-header {padding-top: 20px;}
+    .modal-body-verify.clearfix {padding-bottom: 15px;}
+    .news-verify-design-steps {padding: 90px 0 60px 0;}
+}
+@media(max-width:480px){
+    .news-verify-design-steps .wrong-right-image .tick-image {width: 70px;}
+    .news-verify-design-steps .verify-page-border .global-logo-verify {width: 150px;}
+    .news-verify-design-steps .verification-document-message {font-size: 24px;}
+    .news-verify-design-steps .service-provider-name {font-size: 17px;}
+    .news-verify-design-steps .verify-page-border {padding: 20px;}
+    .news-verify-design-steps .wrong-right-image {padding: 25px 0px;}
+    .news-verify-design-steps {padding: 60px 0 30px 0;}
+    .continue-enable-btn.new-verfy-continuebtn {font-size: 18px;padding: 7px 40px;}
+}
+@media(max-width:375px){
+    .news-verify-design-steps {padding: 55px 0 30px 0;}
+}

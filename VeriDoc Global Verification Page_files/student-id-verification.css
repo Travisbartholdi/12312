@@ -1,0 +1,229 @@
+/**************************id-card-poc*********************/
+.id-card-poc-main.student-tabs-main .submission-tan-main {display: inline-block;}
+.id-card-poc-main .student-id-card-event-table .table > tbody > tr > td {border: none;}
+.student-id-card-event-table .table > thead:first-child > tr:first-child > th {border-bottom: 1px solid #ccc !important;border: none;}
+/**************************id-card-poc end*********************/
+.new-verify-design-main .new-verify-iframe{border-radius:0px 0px 5px 5px;}
+.student-tabs-main {
+    padding: 10px 0px 40px 0px;
+}
+.student-tabs-main a:hover, .student-tabs-main a:focus {outline: none;text-decoration: none;}
+.student-tabs-main .tab .nav-tabs{border-bottom:none;}
+.student-tabs-main .tab .nav-tabs li {text-align: center;margin-right: 8px;border-radius: 6px 6px 0px 0px;}
+.student-tabs-main .tab .nav-tabs li a {font-size: 19px;color: #fff;padding: 8px 27px;background: #25984e !important;margin-right: 0;border: none;position: relative;transition: all 0.5s ease 0s;border-radius: 6px 6px 0px 0px;box-shadow: -12px -8px 23px -17px rgba(0,0,0,0.62);}
+
+.student-tabs-main .grades-tab-main .grades-tab-width {width: 50%;float: left;}
+.student-tabs-main .table > tbody > tr > td {border-top: none;padding: 10px;color: #000;    font-size: 16px;vertical-align:middle;line-height:unset;}
+.student-tabs-main thead > tr > th {padding: 10px;font-size: 16px;color: #000;background-color: #ededed;border-bottom: 1px solid #b3b3b3;vertical-align:middle;    line-height: unset;}
+.student-tabs-main .grades-tab-main thead:first-child > tr:first-child > th {text-align: center;}
+
+.student-tabs-main .table-striped > tbody > tr:nth-of-type(odd) {background-color: #f7f7f7;}
+
+
+.student-tabs-main .tab .nav-tabs li.active a, .student-tabs-main .tab  .tab .nav-tabs li a:hover {background: #fff !important;color: #25984e;border: none;border-radius: 6px 6px 0px 0px;box-shadow: 0px -1px 2px 0 #ccc;}
+.student-tabs-main .tab .tab-content {font-size: 15px;color: #3d3537;line-height: 30px;padding: 40px 40px; box-shadow: 0px 0 6px 0px #ccc;background-color: #fff;border-radius: 0px 6px 6px 6px;}
+.student-tabs-main .tab .tab-content h3 {font-size: 20px;font-weight: bold;margin-top: 0;}
+.student-tabs-main .submission-tan-main .part-submission-main {width:50%;float:left;}
+.student-tabs-main .submission-tan-main{display: flex;vertical-align: middle;align-items: center;margin-bottom:15px;}
+.student-tabs-main .submission-tan-main .submission-box {border: 1px solid #b3b3b3;box-sizing: border-box;min-height: 350px;background-color:#e6e6e6;clear:both;}
+.student-tabs-main .submission-tan-main .left-content-box {width: 80%;float: left;}
+.student-tabs-main .submission-tan-main .pdf-icon-round p {display: inline-block;margin-bottom: 0px;color: #25984e;border: 1px solid #25984e;border-radius: 50%;height: 35px;width: 35px;text-align: center;padding: 4px;}
+.student-tabs-main .submission-tan-main .pdf-icon-round {width:15%;float:left;}
+.student-tabs-main .submission-tan-main .pdf-title-text {padding-top: 2px;font-size: 18px;width: 85%;float: left;word-break:break-word;}
+.student-tabs-main .submission-tan-main .right-content-box {width: 20%;float: left;}
+.student-tabs-main .submission-tan-main .box-first-row{background-color: #f7f7f7;width: 100%;display: flex;padding: 10px 20px;border-bottom: 1px solid #ccc;vertical-align: middle;align-items: center;}
+.student-tabs-main .submission-tan-main .loader-right-cont img {width: 22px;float: right;}
+
+.student-tabs-main .submission-tan-main .studend-upload-file {text-align: center;}
+.student-tabs-main .submission-tan-main .studend-upload-file img {width: 70px;}
+.student-tabs-main .submission-tan-main .studend-upload-file p {font-size: 30px;padding: 40px 0;margin-bottom:unset;}
+.student-tabs-main .submission-tan-main .studend-upload-file .download-btn-verify.gradient-btn {width: 38% !important;display: inline-block;text-transform: capitalize;font-size: 22px;}
+
+.student-tabs-main  .submission-tan-main .upload-main-div-padding {padding: 0px 40px 0px 0px;}
+.student-tabs-main  .grades-tabel-first-sem{padding-right:20px;}
+.student-tabs-main .grades-tabel-sec-sem{padding-left:20px;}
+.student-tabs-main .library-main-section td .library-fa-waring {color: #c1272d;}
+.student-tabs-main .library-main-section tbody > tr > td:last-child {text-align: center !important;font-size: 26px;}
+.student-tabs-main .library-main-section thead > tr > th:last-child {text-align: center !important;}
+.student-verify-tabs li.student-tabs-selection .btn:focus {outline: none !important;}
+.student-tabs-main  .submission-tan-main .uper-main-table .left-portion-div {width: 35%;float: left;background-color: #e6e6e6;border: 1px solid #fff;padding: 10px 15px;font-size: 17px;font-weight:bold;}
+.student-tabs-main  .submission-tan-main .uper-main-table .right-portion-div {width: 65%;float: left;background-color: #f7f7f7;border: 1px solid #fff;padding: 10px 15px;font-size: 17px;}
+.student-tabs-main  .certificates-main-div .uper-main-table .left-portion-div {width: 20%;float: left;background-color: #e6e6e6;border: 1px solid #fff;padding: 10px 15px;font-size: 17px;font-weight:bold;}
+.student-tabs-main  .certificates-main-div .uper-main-table .right-portion-div {width: 80%;float: left;background-color: #f7f7f7;border: 1px solid #fff;padding: 10px 15px;font-size: 17px;}
+.student-tabs-main .submission-tan-main .uper-main-table {margin-bottom: 15px;}
+.student-tabs-main  .certificates-main-div .uper-main-table {margin-bottom: 15px;}
+.student-tabs-main .grades-tab-main td.table-below-title {background-color: #e2e2e2;padding: 0px 10px !important;font-size: 14px !important;color: #7f7f7f !important;line-height: 28px !important;}
+.student-tabs-main .verify-btn-space {width: 125px;}
+.student-tabs-main .gradient-btn.download-btn-verify.event-verify-btn-main {display: inline-block !important;clear: both;padding: 7px !important;}
+.student-tabs-main .student-id-card-event-table .table > tbody > tr > td {line-height: 1.42857143;}
+.student-tabs-main .student-id-card-event-table .table {
+    margin-bottom: 0px;
+  
+}
+    .student-tabs-main  .table > tbody > tr > td {
+        border: 1px solid #ddd;
+    }
+.student-tabs-main .table > thead > tr > th {
+    border: 1px solid #ddd;
+    border-bottom-width: 2px;
+}
+.student-tabs-main .table > thead:first-child > tr:first-child > th {
+    border-top: 1px solid #ddd;
+    border-bottom-width: 2px;
+}
+ .student-id-card-event-table .table > tbody > tr > td {
+    border: 1px solid #ddd;
+}
+.student-id-card-event-table .table > thead > tr > th {
+    border: 1px solid #ddd;
+    white-space: nowrap;
+    border-bottom-width: 2px;
+}
+.student-id-card-event-table .table > thead:first-child > tr:first-child > th {
+    border-top: 1px solid #ddd;
+    border-bottom-width: 2px;
+}
+    .student-id-card-event-table {
+        clear: both;
+    }
+    /*.student-id-card-event-table thead > tr > th {
+        background: linear-gradient(to right, rgba(4,128,65,1) 0%, rgba(47,165,73,1) 55%, rgba(77,174,70,1) 70%, rgba(117,185,67,1) 90%);
+        color:#fff;
+    }*/
+
+@media(max-width:1199px) {
+    .student-tabs-main .submission-tan-main .uper-main-table .left-portion-div {padding: 10px 10px;font-size: 15px;}
+
+    .student-tabs-main .submission-tan-main .uper-main-table .right-portion-div {padding: 10px 10px;font-size: 15px;}
+}
+@media (max-width: 991px) {
+.check-in-out-btn .verify-btn-space {display: flex;}
+.vh-increase .left-portion-div, .vh-increase .right-portion-div {display: inline-grid;height: 12vh;align-items: center;text-align: center;}
+.new-verify-design-main .verify-middle-content-main {border-radius:0px 0px 5px 5px;}
+.verify-mobile-main .mobile-tab-detail #verifybutton{border-radius:0 0 5px 5px;}
+.student-verify-tabs li.student-tabs-selection .btn-primary-opt {color: #fff;border-color: #25984E;background: #25984E;font-weight: normal;width: 100%;text-transform: capitalize;padding: 9px 2px;font-family: 'RobotoRegular' !important;font-size: 16px;border-radius: 0 5px 0 0;letter-spacing:unset;}
+.student-verify-tabs li.student-tabs-selection.dropdown {width: 40%;}
+.student-verify-tabs li {text-align: center;}
+.student-verify-tabs li.verify-color-tab {width: 20%;}
+.student-verify-tabs .btn .caret {border-top: 10px dashed;border-right: 5px solid transparent;border-left: 5px solid transparent;margin-left: 20px;}
+.student-verify-tabs .student-tabs-selection ul.dropdown-menu {width: 100%;padding: 0;margin: 0 !important;min-width: unset;}
+.student-verify-tabs .student-tabs-selection ul.dropdown-menu li {padding: 6px 0px;border-bottom: 1px solid #dfdfdf;}
+.student-verify-tabs li.student-tabs-selection.dropdown.active button {background-color: #fff;color: green;border: unset;}
+.student-verify-tabs .student-tabs-selection ul.dropdown-menu li a {color: #25984E;font-size: 16px;background-color: unset; padding: 3px;}
+.student-verify-tabs .verify-in-mobile-view .verify-color-tab .verify-mobile-view-tab {border: none !important;border-right: unset;font-size: 14px;adding: 10px;}
+    .student-verify-tabs .verify-mobile-main .mobile-tab-detail .mobile-view-sub {display: block;border: 2px solid #25984e;text-align: center;padding: 20px 20px;border-radius: 0 0 5px 5px;background-color: #fff;}
+.student-verify-tabs .studend-upload-file p {font-size: 25px;padding: 23px 0;margin-bottom: unset;}
+.student-verify-tabs .studend-upload-file img {width: 65px;}
+.student-verify-tabs .studend-upload-file .download-btn-verify.gradient-btn {width: 30% !important;display: inline-block;text-transform: capitalize;font-size: 18px;padding:7px!important;margin-bottom: 25px !important;}
+.student-verify-tabs .box-first-row {background-color: #f7f7f7;width: 100%;display: flex;padding: 10px 7px;border-bottom: 1px solid #ccc;vertical-align: middle;align-items: center;}
+.student-verify-tabs  .left-content-box {width: 80%;float: left;text-align:left;}
+.student-verify-tabs  .right-content-box {width: 20%;float: left;}
+.student-verify-tabs .pdf-icon-round p {display: inline-block;margin-bottom: 0px;color: #25984e;border: 1px solid #25984e;border-radius: 50%;height: 35px;width: 35px;text-align: center;padding: 3px;}
+.student-verify-tabs .pdf-icon-round {width: 12%;float: left;}
+.student-verify-tabs .pdf-title-text {padding-top: 5px;font-size: 18px;width: 88%;float: left;word-break: break-word;}
+.student-verify-tabs  .loader-right-cont img {width: 22px;float: right;}
+    .student-verify-tabs .table > thead > tr > th {
+        text-align: center;
+        background-color: #ededed;
+        line-height: 27px;
+        
+        vertical-align: middle;
+    }
+    .student-verify-tabs .table > tbody > tr > td {
+        text-align: left;
+        border-top: none;
+        line-height: 23px !important;
+        vertical-align: middle;
+    }
+.student-verify-tabs .mobile-view-sub .table-responsive {border: none;}
+  
+    .student-verify-tabs .librbary-mobile-view tbody > tr > td:last-child {
+        text-align: center;
+    }
+.student-verify-tabs .librbary-mobile-view thead > tr > th {text-align: left;}
+.student-verify-tabs .librbary-mobile-view thead > tr > th:last-child {text-align: center;}
+.student-verify-tabs .librbary-mobile-view td .library-fa-waring {color: #c1272d;font-size:17px;}
+
+
+.student-verify-tabs .uper-main-table .left-portion-div {width: 38%;float: left;background-color: #e6e6e6;border: 1px solid #fff;padding: 10px 10px;font-size: 17px;font-weight:bold;}
+.student-verify-tabs .uper-main-table .right-portion-div {width: 62%;float: left;background-color: #f7f7f7;border: 1px solid #fff;padding: 10px 10px;font-size: 17px;}
+    .student-verify-tabs .uper-main-table {margin-bottom: 15px;}
+    .student-verify-tabs  td.table-below-title {
+        background-color: #e2e2e2;
+        padding: 0px 10px !important;
+        font-size: 14px !important;
+        color: #7f7f7f !important;
+        line-height: 28px !important;
+    }
+    .student-verify-tabs .submission-box.clearfix {
+        margin-bottom: 15px;
+        border: 1px solid #b3b3b3;
+        min-height: 227px;
+        background-color: #e6e6e6;
+    }
+    .student-verify-tabs .student-id-card-event-table .table-responsive > .table > tbody > tr > td {
+        white-space: nowrap;
+    }
+    .student-verify-tabs .student-id-card-event-table .gradient-btn.download-btn-verify {
+        padding: 7px !important;
+        font-size: 16px;
+        text-transform: uppercase;
+        white-space: nowrap;
+        text-align: center;
+        display: block !important;
+        margin: 0 !important;
+    }
+    .student-verify-tabs .table > tbody > tr > td {
+        border: 1px solid #ddd;
+    }
+
+    .student-verify-tabs .table > thead > tr > th {
+        border: 1px solid #ddd;
+        border-bottom-width: 2px;
+    }
+
+    .student-verify-tabs .table > thead:first-child > tr:first-child > th {
+        border-top: 1px solid #ddd;
+        border-bottom-width: 2px;
+    }
+	  .student-id-card-event-table .gradient-btn.download-btn-verify.verify-btn-new-main {
+        display: inline-block !important;
+    }
+    .student-verify-tabs #flash .student-id-card-event-table .table-responsive > .table > tbody > tr > td{text-align:center}
+}
+@media(max-width:568px){
+    .student-verify-tabs .pdf-icon-round {width: 20%;}
+.student-verify-tabs .pdf-title-text {width: 80%;}
+}
+@media(max-width:480px){
+    .student-verify-tabs .btn .caret {margin-left: 8px;}
+    .student-verify-tabs li.verify-color-tab {width: 18%;}
+    .student-verify-tabs li.student-tabs-selection.dropdown {width: 46%;}
+    .student-verify-tabs .uper-main-table .right-portion-div {
+        width: 55%;
+      
+       
+        padding: 10px 5px;
+        font-size: 14px;
+    }
+    .student-verify-tabs .uper-main-table .left-portion-div {
+        width: 45%;
+      
+        padding: 10px 5px;
+        font-size: 14px;
+     
+    }
+	.student-verify-tabs .student-tabs-selection ul.dropdown-menu li a {
+      
+        font-size: 14px;
+       
+    }
+}
+@media(max-width:414px) {
+  .student-verify-tabs .btn .caret {margin-left: 3px;}
+  .student-verify-tabs li.verify-color-tab{font-size:14px;}
+  .verify-in-mobile-view.student-verify-tabs .verify-color-tab .verify-mobile-view-tab {padding: 10px 5px !important;}
+  .student-verify-tabs li.student-tabs-selection .btn-primary-opt {font-size: 14px;}
+    .student-verify-tabs .studend-upload-file .download-btn-verify.gradient-btn {width: 35% !important;font-size: 17px;padding: 6px !important;}
+}
+
